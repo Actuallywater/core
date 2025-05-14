@@ -1,0 +1,10 @@
+{
+  "domain": "redis",
+  "name": "redis",
+  "codeowners": ["@Actuallywater"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/redis",
+  "iot_class": "local_polling",
+  "quality_scale": "bronze",
+  "requirements": ["redis==5.2.1"]
+}

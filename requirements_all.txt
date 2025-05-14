@@ -2624,6 +2624,11 @@ rapt-ble==0.1.2
 # homeassistant.components.raspyrfm
 raspyrfm-client==1.2.8
 
+# homeassistant.components.hello_sensor
+# homeassistant.components.hello_state
+# homeassistant.components.redis
+redis==5.2.1
+
 # homeassistant.components.refoss
 refoss-ha==1.2.5
 

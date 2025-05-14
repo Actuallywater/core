@@ -2226,6 +2226,7 @@ INTEGRATIONS_WITHOUT_SCALE = [
     "zoneminder",
     "zwave_js",
     "zwave_me",
+    "redis",
 ]
 
 NO_QUALITY_SCALE = [
